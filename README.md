@@ -1,4 +1,7 @@
-# PMO
+# Data Scientist Portfolio and CV
+
+#### A few words about me...
+I'm a graduate student of Data Science at TU Dortmund. 
 
 ### Education
 B. Sc. Mechanical Engineering
