@@ -6,8 +6,8 @@ I'm a graduate student of Data Science at TU Dortmund.
 And here I'm testing it again.
 
 ### Education
-B. Sc. Mechanical Engineering
-M. Sc. Data Science
+- B. Sc. Mechanical Engineering
+- M. Sc. Data Science
 
 ### Work Experience
 First job
@@ -16,7 +16,7 @@ First job
 First Project
 
 ### Languages
-Spanish (Native) 
-English
-German
+- Spanish (Native) 
+- English
+- German
 
